@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestApp</string>
+    <string name="charge_time_butt">开始记录充电时间</string>
+    <string name="discharge_time_butt">开始记录放电时间</string>
+</resources>
